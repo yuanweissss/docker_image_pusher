@@ -2,6 +2,7 @@ mysql:5.7.19
 nginx
 bitnami/minio
 nacos/nacos-server:v1.4.8
+onlyoffice-documentserver:8
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
